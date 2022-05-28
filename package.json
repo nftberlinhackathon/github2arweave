@@ -1,0 +1,23 @@
+{
+  "name": "github2arweave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nftberlinhackathon/github2arweave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nftberlinhackathon/github2arweave/issues"
+  },
+  "homepage": "https://github.com/nftberlinhackathon/github2arweave#readme",
+  "dependencies": {
+    "arkb": "^1.1.56",
+    "arweave-wallet-connector": "^0.0.29"
+  }
+}
